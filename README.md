@@ -1,2 +1,2 @@
 # mathObjects
-reference for math objects
+reference for javascript
